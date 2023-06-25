@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "cd my-app && react-scripts start"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
